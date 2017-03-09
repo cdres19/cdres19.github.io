@@ -1,15 +1,10 @@
-Dimension by HTML5 UP
+Caroline Dres's Website Hack
+Template "Dimension" Provided by HTML5 UP
 html5up.net | @ajlkn
 Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
 
 
-This is Dimension, a fun little one-pager with modal-ized (is that a word?) "pages"
-and a cool depth effect (click on a menu item to see what I mean). Simple, fully
-responsive, and kitted out with all the usual pre-styled elements you'd expect.
-Hope you dig it :)
-
-Demo images* courtesy of Unsplash, a radtastic collection of CC0 (public domain) images
-you can use for pretty much whatever.
+The purpose of this website is to act as a kind of resume. It displays a profile with a little bit about me and my goals. It displays my educational background, my qualifications and work experience. This website also showcases part of my portfolio and offers people who visit my website a way to contact me and/or keep up to date with what I am doing.
 
 (* = not included)
 
